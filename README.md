@@ -48,4 +48,3 @@ The dashboard helps identify high-contributing geographic markets and understand
 ## Skills Demonstrated
 
 Power BI Dashboard Development, Geographic Analysis, Market Analysis, KPI Analysis, YoY Analysis, Category Analysis, Brand Analysis, SKU Analysis, DAX, Data Visualization.
-
